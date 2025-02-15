@@ -12,10 +12,10 @@ However, accounting for time trends, the long-term revenue effect decreases to *
 Messi's impact extends beyond ticket sales, influencing **merchandise, sponsorships, and global visibility** for Inter Miami and MLS.
 Methodology
 The analysis utilizes ticket sales data from **SeatData.io**, covering Inter Miami matches from **2021 to 2024**. Key variables include:
-- Ticket price trends before and after Messi’s arrival.
-- Seating categories, home vs. away games, and opponent strength.
-- Multiple linear regression models incorporating interaction terms to capture Messi’s effect.
+- **Ticket price trends** before and after Messi’s arrival.
+- **Seating categories, home vs. away games, and opponent strength**.
+- **Multiple linear regression** models incorporating interaction terms to capture Messi’s effect.
 
 ## Data Sources
-SeatData.io: Secondary market ticket sales.
-ESPN, Statista, AS USA: Contextual economic and sports data.
+- **SeatData.io**: Secondary market ticket sales.
+- **ESPN, Statista, AS USA**: Contextual economic and sports data.
